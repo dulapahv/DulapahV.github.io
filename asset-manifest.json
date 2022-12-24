@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.62b1fce1.css",
-    "main.js": "/static/js/main.26b1a51f.js",
+    "main.js": "/static/js/main.c4ff4be8.js",
     "static/media/1.png": "/static/media/1.663dba78faf3345ba366.png",
     "static/media/profile_pic.png": "/static/media/profile_pic.70f7bfb0e960c76652c6.png",
     "static/media/TA1.jpg": "/static/media/TA1.509c794eff62a08519f2.jpg",
     "static/media/TA2.jpg": "/static/media/TA2.7f4ad4d648196c44d784.jpg",
     "static/media/PreSession2.jpg": "/static/media/PreSession2.70db3029a070bbaf060e.jpg",
     "static/media/audacity.png": "/static/media/audacity.993582a72c98b3df8d8e.png",
-    "static/media/cuhk.png": "/static/media/cuhk.7d3ba3c5eea817f8077b.png",
     "static/media/Bangkok1.jpg": "/static/media/Bangkok1.aa406326017d2294a5c8.jpg",
     "static/media/Bangkok2.jpg": "/static/media/Bangkok2.7bf50341390660967929.jpg",
     "static/media/PreSession1.png": "/static/media/PreSession1.771550dcc52fe7e65b5c.png",
@@ -30,6 +29,7 @@
     "static/media/3.png": "/static/media/3.537ff8be323f716ca8e2.png",
     "static/media/vmware.png": "/static/media/vmware.d2661baf3846910ca0a3.png",
     "static/media/java.png": "/static/media/java.6121bed26d4895630c46.png",
+    "static/media/kmutnb.png": "/static/media/kmutnb.8b6fbc1bf218a75468e0.png",
     "static/media/ku.png": "/static/media/ku.2f4dc01161e4eead7171.png",
     "static/media/js.png": "/static/media/js.6a9976d837912827fa9d.png",
     "static/media/pr.png": "/static/media/pr.0cfaa67634955e31893c.png",
@@ -50,10 +50,10 @@
     "static/media/vroid.png": "/static/media/vroid.b7ff4b26efd4a030c759.png",
     "index.html": "/index.html",
     "main.62b1fce1.css.map": "/static/css/main.62b1fce1.css.map",
-    "main.26b1a51f.js.map": "/static/js/main.26b1a51f.js.map"
+    "main.c4ff4be8.js.map": "/static/js/main.c4ff4be8.js.map"
   },
   "entrypoints": [
     "static/css/main.62b1fce1.css",
-    "static/js/main.26b1a51f.js"
+    "static/js/main.c4ff4be8.js"
   ]
 }
