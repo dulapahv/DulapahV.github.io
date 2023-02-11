@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d199e03f.css",
-    "main.js": "/static/js/main.c78b71ae.js",
+    "main.css": "/static/css/main.4fa0be7e.css",
+    "main.js": "/static/js/main.ddaa09cd.js",
     "static/media/TA1.webp": "/static/media/TA1.433562db591b23bfa444.webp",
     "static/media/TA2.webp": "/static/media/TA2.3f69408f4307599a22c7.webp",
     "static/media/1.webp": "/static/media/1.5d9416da6157dfe7ad66.webp",
@@ -54,11 +54,11 @@
     "static/media/git.webp": "/static/media/git.16b1d22cb89ffddc54e4.webp",
     "static/media/oculus.webp": "/static/media/oculus.f26be106673c25c2d46f.webp",
     "index.html": "/index.html",
-    "main.d199e03f.css.map": "/static/css/main.d199e03f.css.map",
-    "main.c78b71ae.js.map": "/static/js/main.c78b71ae.js.map"
+    "main.4fa0be7e.css.map": "/static/css/main.4fa0be7e.css.map",
+    "main.ddaa09cd.js.map": "/static/js/main.ddaa09cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.d199e03f.css",
-    "static/js/main.c78b71ae.js"
+    "static/css/main.4fa0be7e.css",
+    "static/js/main.ddaa09cd.js"
   ]
 }
