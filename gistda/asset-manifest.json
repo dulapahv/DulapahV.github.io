@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gistda/static/css/main.a71ca7ac.css",
-    "main.js": "/gistda/static/js/main.913489f5.js",
+    "main.js": "/gistda/static/js/main.2ccbd492.js",
     "index.html": "/gistda/index.html",
     "main.a71ca7ac.css.map": "/gistda/static/css/main.a71ca7ac.css.map",
-    "main.913489f5.js.map": "/gistda/static/js/main.913489f5.js.map"
+    "main.2ccbd492.js.map": "/gistda/static/js/main.2ccbd492.js.map"
   },
   "entrypoints": [
     "static/css/main.a71ca7ac.css",
-    "static/js/main.913489f5.js"
+    "static/js/main.2ccbd492.js"
   ]
 }
